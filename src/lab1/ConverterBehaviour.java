@@ -12,8 +12,6 @@
 * Declaration:
 * This is my own original work and is free from plagiarism.
 * 
-* 
-* 
 */
 
 package lab1;
